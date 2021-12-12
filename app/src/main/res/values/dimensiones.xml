@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="AR_floating_button_margin">15dp</dimen>
+    <dimen name="AR_edit_text_marginend">10dp</dimen>
+    <dimen name="AR_text_view_margin">10dp</dimen>
+    <dimen name="AR_title_paddingH">60dp</dimen>
+    <dimen name="AR_title_paddingV">5dp</dimen>
+    <dimen name="AR_title_textsize">25sp</dimen>
+    <dimen name="AR_text_view_textsize">17sp</dimen>
+    <dimen name="AR_edit_text_textsize">17sp</dimen>
+
+    <dimen name="MR_floating_button_margin">15dp</dimen>
+    <dimen name="MR_recycler_view_margintop">5dp</dimen>
+
+    <dimen name="VR_card_radius">10dp</dimen>
+    <dimen name="VR_card_elevation">5dp</dimen>
+    <dimen name="VR_card_margin">8dp</dimen>
+    <dimen name="VR_fecha_paddingtop">5dp</dimen>
+    <dimen name="VR_descripcion_paddinghorizontal">10dp</dimen>
+    <dimen name="VR_descripcion_paddingtop">5dp</dimen>
+    <dimen name="VR_descripcion_paddingbottom">10dp</dimen>
+    <dimen name="VR_fecha_textsize">17sp</dimen>
+    <dimen name="VR_descripcion_textsize">14sp</dimen>
+
+    <dimen name="C_aclaracion_textsize">15sp</dimen>
+    <dimen name="C_aclaracion_marginhorizontal">10dp</dimen>
+    <dimen name="C_aclaracion_marginvertical">5dp</dimen>
+    <dimen name="C_boton_borrar_datos_textsize">17sp</dimen>
+    <dimen name="C_boton_borrar_datos_paddingvertical">10dp</dimen>
+</resources>

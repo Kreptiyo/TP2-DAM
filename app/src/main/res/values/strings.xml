@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">tp2dam</string>
+    <string name="fecha_text">FECHA</string>
+    <string name="fecha_hint">dd/mm/yyyy</string>
+    <string name="hora_text">HORA</string>
+    <string name="hora_hint">hh:mm</string>
+    <string name="descripcion_text">Descripción</string>
+    <string name="descripcion_hint">Descripción del recordatorio</string>
+    <string name="id_canal">2021</string>
+    <string name="nombre_canal">CANALRECORDATORIOS</string>
+    <string name="descripcion_canal">CANAL DE NOTIFICACIONES</string>
+
+    <string name="toolbar_titulo_crear_recordatorio">Crear Recordatorio</string>
+    <string name="toolbar_titulo_listarecordatorios">Lista de recordatorios</string>
+
+    <string name="pref_datasource_title">Tipo Datasource</string>
+    <string name="pref_datasource_ok_button">Aceptar</string>
+
+    <string-array name="pref_datasource_titles">
+        <item>SHARED PREFERENCES</item>
+        <item>ROOM DATABASE</item>
+        <item>API RETROFIT</item>
+    </string-array>
+
+    <string-array name="pref_datasource_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
