@@ -1,4 +1,4 @@
-package com.pintomaximiliano.tp2dam;
+package com.pintomaximiliano.tp2dam.ui;
 
 import android.app.AlarmManager;
 import android.app.DatePickerDialog;
@@ -13,12 +13,12 @@ import android.preference.PreferenceManager;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.View;
 import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.pintomaximiliano.tp2dam.R;
 import com.pintomaximiliano.tp2dam.dao.RecordatorioDataSource;
 import com.pintomaximiliano.tp2dam.dao.RecordatorioPreferencesDataSource;
 import com.pintomaximiliano.tp2dam.dao.RecordatorioRepository;

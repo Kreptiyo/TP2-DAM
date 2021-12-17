@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Tp2dam">
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,14 +19,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".CrearRecordatorioActivity"
+            android:name=".ui.CrearRecordatorioActivity"
             android:exported="true"
-            android:parentActivityName=".MainActivity">
+            android:parentActivityName=".ui.MainActivity">
         </activity>
         <activity
-            android:name=".ConfiguracionActivity"
+            android:name=".ui.ConfiguracionActivity"
             android:exported="true"
-            android:parentActivityName=".MainActivity">
+            android:parentActivityName=".ui.MainActivity">
         </activity>
     </application>
 

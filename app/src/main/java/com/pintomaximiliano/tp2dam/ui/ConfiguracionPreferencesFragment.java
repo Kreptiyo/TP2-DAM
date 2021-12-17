@@ -1,4 +1,4 @@
-package com.pintomaximiliano.tp2dam;
+package com.pintomaximiliano.tp2dam.ui;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -7,6 +7,7 @@ import android.preference.Preference;
 import android.preference.PreferenceFragment;
 import android.preference.PreferenceManager;
 
+import com.pintomaximiliano.tp2dam.R;
 import com.pintomaximiliano.tp2dam.dao.BuilderAPI;
 
 public class ConfiguracionPreferencesFragment extends PreferenceFragment {

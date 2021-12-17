@@ -1,12 +1,12 @@
-package com.pintomaximiliano.tp2dam;
+package com.pintomaximiliano.tp2dam.ui;
 
 import android.content.Intent;
-import android.content.SharedPreferences;
-import android.preference.PreferenceManager;
 import android.support.design.button.MaterialButton;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+
+import com.pintomaximiliano.tp2dam.R;
 
 public class ConfiguracionActivity extends AppCompatActivity {
 

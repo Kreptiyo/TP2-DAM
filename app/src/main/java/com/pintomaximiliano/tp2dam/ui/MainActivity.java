@@ -1,4 +1,4 @@
-package com.pintomaximiliano.tp2dam;
+package com.pintomaximiliano.tp2dam.ui;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Handler;
@@ -20,6 +20,7 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
+import com.pintomaximiliano.tp2dam.R;
 import com.pintomaximiliano.tp2dam.adapter.RecordatorioAdapter;
 import com.pintomaximiliano.tp2dam.dao.RecordatorioDataSource;
 import com.pintomaximiliano.tp2dam.dao.RecordatorioPreferencesDataSource;
